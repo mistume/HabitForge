@@ -1,0 +1,5 @@
+{
+  "name": "HabitForge",
+  "description": "A comprehensive habit tracker with yearly heatmap visualizations, journaling, a planner, and a smart to-do list using an Eisenhower matrix.",
+  "requestFramePermissions": []
+}
